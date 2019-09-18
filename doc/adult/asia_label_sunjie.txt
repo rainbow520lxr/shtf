@@ -1,0 +1,93 @@
+#angry
+1-2 neutral
+3-1 neutral
+7-2 fear
+9-1 neutral
+9-3 disgust
+9-4 neutral
+9-5 neutral
+10-1 neutral
+10-2 neutral
+10-4 neutral
+11-1 neutral
+13-1 neutral
+14-2 neutral
+19-1 surprise
+22-1 fear
+38-1 neutral
+51-1 neutral
+53-1 neutral
+#disgust
+1-1 neutral
+4-1 neutral
+6-1 neutral
+13-1 neutral
+14-1 fear
+15-1 neutral
+17-1 neutral
+19-1
+20-1 neutral
+23-1 fear
+24-2 angry
+28-1 neutral
+31-2 angry
+32-1 sad
+33-1 neutral
+34-1 neutral
+36-1 angry
+37-1 neutral
+39-1 neutral
+41-1 neutral
+47-1 neutral
+56-2 neutral
+57-1 sad
+58-2 neutral
+#fear
+15-1 disgust
+16-1 surprise
+24-2 neutral
+29-1 surprise
+#happy
+158-1 neutral
+#neutral
+9-2 fear
+20-1 angry
+23-1 happy
+161-1 happy
+#sad
+1-1 fear
+10-2 neutral
+#surprise
+6-1 happy
+6-2 neutral
+18-1 neutral
+19-1 neutral
+20-1 disgust
+20-17 neutral
+21-3 happy
+23-1 neutral
+30-1 fear
+31-1 neutral
+31-2 neutral
+33-1 neutral
+40-1 neutral
+43-1 neutral
+45-1 fear
+46-1 neutral
+46-2 sad
+52-2 angry
+53-1 neutral
+54-1 neutral
+56-1 fear
+58-1 fear
+59-1 fear
+61-1 fear
+
+
+
+
+
+
+
+
+

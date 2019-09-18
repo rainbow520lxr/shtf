@@ -1,0 +1,39 @@
+#angry
+3-1.jpg  sad
+7-2.jpg  surprise
+8-1.jpg  neutral
+9-1.jpg  happy
+9.3.jpg  surprise
+#disgust
+13-1.jpg  sad
+20-1.jpg  sad
+46-1.jpg  sad
+47-1.jpg  sad
+#fear
+14-1.jpg  sad
+15-1.jpg  disgust
+16-1.jpg  surprise
+18-1.jpg  angry
+21-1.jpg  sad
+24-2.jpg  neutral
+#happy
+130-4.jpg  neutral
+162-5.jpg  neutral
+173-6.jpg  neutral
+194-19.jpg fear
+196-9.jpg  sad
+#neutral
+4-1.jpg happy
+10-1.jpg disgust
+142-1.jpg  angry
+176-1.jpg  angry
+198-1.jpg  surprise
+201-1.jpg  sad
+201-2.jpg  angry
+201-7.jpg  angry
+#sad
+#surprise
+21-3.jpg  happy
+23-1.jpg  neutral
+52-2.jpg  angry
+58-1.jpg  sad

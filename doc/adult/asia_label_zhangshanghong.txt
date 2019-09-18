@@ -1,0 +1,26 @@
+#angry
+7-2 fear
+38-1 neutral
+#disgust
+6-1 neutral
+#fear
+1-1 surprise
+14-1 angry
+#happy
+70-3 neutral
+130-4 neutral
+136-1 neutral
+137-1 neutral
+#neutral
+88-1 happy
+201-6 fear
+201-7 disgust
+#sad
+6-6 neutral
+26-2 neutral
+#surprise
+6-1 happy
+21-3 happy
+
+
+

@@ -1,0 +1,13 @@
+#angry
+41-1 sad
+42-1 sad
+42-2 neutral
+8-1 netrual
+#disgust
+4-1 
+24-1
+# surprise
+2-1 
+6-1 happy
+36-1 fear
+15-1 netural

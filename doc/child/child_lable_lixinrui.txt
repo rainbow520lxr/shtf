@@ -1,0 +1,38 @@
+ "angry", "disgust", "fear", "happy", "sad", "surprise", "neutral"
+#angry
+1 netrual 
+9 netrual
+40 surprise
+33 netrual
+#disgust
+7 netrual
+20
+#fear
+1 
+2 surprise
+17
+23 netrual
+35 
+49 netrual
+74 netrual
+70 netrual
+80 netrual
+#sad
+15 netrual
+18 netrual
+20 netrual
+27 netrual
+30 netrual
+25 netrual
+76 netrual
+80 surprise
+280 netrual
+
+
+
+
+
+
+
+
+
